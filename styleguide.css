@@ -1,0 +1,150 @@
+:root { 
+  --baltic-sea: #292831;
+  --black: #000000;
+  --bunker: #121118;
+  --eerie-black: #18171f;
+  --eerie-black-2: #1c1b24;
+  --governor-bay: #2823b7;
+  --mirage: #1f1e29;
+  --persian-blue: #2521e1;
+  --shark: #23212c;
+  --silver: #bbbbbe;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 16px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 30px;
+  --font-size-xxxl: 48px;
+  --font-size-xxxxl: 64px;
+ 
+  --font-family-kanit: "Kanit", Helvetica;
+  --font-family-khula: "Khula", Helvetica;
+}
+.kanit-normal-silver-18px {
+  color: var(--silver);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.kanit-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.kanit-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.kanit-bold-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.kanit-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.kanit-normal-silver-12px {
+  color: var(--silver);
+  font-family: var(--font-family-kanit);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.khula-normal-silver-18px {
+  color: var(--silver);
+  font-family: var(--font-family-khula);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.kanit-normal-white-18px {
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.khula-light-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-khula);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.khula-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-khula);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.kanit-normal-white-18px-2 {
+  color: var(--white);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.kanit-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.kanit-semi-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-xxl);
+  font-style: italic;
+  font-weight: 600;
+}
+
+.kanit-bold-persian-blue-18px {
+  color: var(--persian-blue);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.kanit-semi-bold-silver-18px {
+  color: var(--silver);
+  font-family: var(--font-family-kanit);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.kanit-normal-silver-15px {
+  color: var(--silver);
+  font-family: var(--font-family-kanit);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
